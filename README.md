@@ -1,15 +1,11 @@
 <h1 align="center">Hello There, I'm Adam</h1>
-<h4 align="center">Hi, you can call me Adam. I'm from Indonesia and currently studying at Maulana Malik Ibrahim State Islamic University in Malang. I have skills in both mobile and website development, and I'm currently focusing on diving deeper into the field of database development. I am passionate about exploring the vast possibilities of databases and harnessing their power to create innovative solutions. I thrive both as a team player and as an independent worker, bringing dedication and creativity to every project I undertake. Let's embark on this exciting journey together and leverage the latest technologies to make a significant impact in the digital realm.</h4>
+<h4 align="center">I'm from Indonesia and currently studying at Maulana Malik Ibrahim State Islamic University in Malang. I have skills in both mobile and website development, and I'm currently focusing on diving deeper into the field of database development. I am passionate about exploring the vast possibilities of databases and harnessing their power to create innovative solutions. I thrive both as a team player and as an independent worker, bringing dedication and creativity to every project I undertake. Let's embark on this exciting journey together and leverage the latest technologies to make a significant impact in the digital realm.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adambadruzz&label=Profile%20views&color=0e75b6&style=flat" alt="adambadruzz" /> </p>
+<p style="background-color: black;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adambadruzz&show_icons=true&locale=en&layout=compact" alt="adambadruzz" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adambadruzz" alt="adambadruzz" /></a> </p>
+<p style="background-color: black;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adambadruzz&show_icons=true&locale=en" alt="adambadruzz" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adambadruzz&show_icons=true&locale=en&layout=compact" alt="adambadruzz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adambadruzz&show_icons=true&locale=en" alt="adambadruzz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adambadruzz&" alt="adambadruzz" /></p>
+<p style="background-color: black;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adambadruzz&" alt="adambadruzz" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
