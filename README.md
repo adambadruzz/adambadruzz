@@ -1,5 +1,4 @@
-<h1 align="center">Hello There, I'm Adam</h1>
-<h5 align="center">I'm from Indonesia and currently studying at Maulana Malik Ibrahim State Islamic University in Malang. I have skills in both mobile and website development, and I'm currently focusing on diving deeper into the field of database development. I am passionate about exploring the vast possibilities of databases and harnessing their power to create innovative solutions. I thrive both as a team player and as an independent worker, bringing dedication and creativity to every project I undertake. Let's embark on this exciting journey together and leverage the latest technologies to make a significant impact in the digital realm.</h5>
+<h1 align="center">Hello There!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adambadruzz&label=Profile%20views&color=0e75b6&style=flat" alt="adambadruzz" /> </p>
 
