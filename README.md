@@ -5,7 +5,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adambadruzz&size_weight=0.5&count_weight=0.5&theme=radical" alt="adambadruzz" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adambadruzz&theme=radical&" alt="adambadruzz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adambadruzz&layout=compact&theme=radical" alt="adambadruzz" />   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adambadruzz&theme=radical&" alt="adambadruzz" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
