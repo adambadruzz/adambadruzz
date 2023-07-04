@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adambadruzz&label=Profile%20views&color=0e75b6&style=flat" alt="adambadruzz" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adambadruzz&size_weight=0.5&count_weight=0.5&theme=radical" alt="adambadruzz" /></p>
+<h3 align="left">GitHub Stats</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adambadruzz&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" alt="adambadruzz" /></p>
 
@@ -15,7 +15,7 @@
 <a href="https://kaggle.com/adambadruzzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adambadruzzaman" height="30" width="40" /></a>
 <a href="https://fb.com/dummyyhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dummyyhere" height="30" width="40" /></a>
 <a href="https://instagram.com/dum_myyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dum_myyz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@adambadruzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@adambadruzz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@adambadruzz/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@adambadruzz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
